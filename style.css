@@ -1,0 +1,41 @@
+body {
+    background-color: #b1b8ee
+}
+
+hr { 
+    color: #5d5475;
+    border-style: dashed none none;  
+    height: 10px; 
+   
+    border-width: 6px;
+     
+}
+
+p {
+    color: #4a4747
+
+
+}
+
+li {
+    color: #4a4747
+
+
+}
+
+table {
+    color: #4a4747
+   
+
+}
+
+        h3,h2,h1 {
+    color: #505c5c
+    }
+
+        h4,h5,h6 {
+    color: #505c5c
+
+    }
+    
+   
